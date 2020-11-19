@@ -81,3 +81,4 @@ let list:any[] = [1,"z",{}]
 // 表示一个确定数组长度和类型的写法
 const arr:[string,number] = ['2',3]
 ```
+
